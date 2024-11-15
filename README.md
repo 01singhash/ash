@@ -1,1 +1,1 @@
-
+Created a machine learning model to predict flight ticket prices on Goibibo using historical pricing, route, date, and demand data. Implemented regression algorithms to achieve high accuracy and identify trends in pricing patterns. This project helps travelers make informed booking decisions and optimize their travel costs.
